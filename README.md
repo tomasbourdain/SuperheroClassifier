@@ -1,5 +1,4 @@
-# SuperheroClassifier_huggface_gradio
-
+# SuperheroClassifier
 Superhero Classifier trained with a dataset from Kaggle https://www.kaggle.com/datasets/muhammadhananasghar/sh2022-dataset
 
 Superheros:
